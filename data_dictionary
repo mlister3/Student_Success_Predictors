@@ -1,0 +1,8 @@
+Demographic data:
+
+Marital status: 1=Single, 2=Married, 3=Widower, 4=Divorced, 5=Facto Union, 6=Legally Seperated
+Nationality: 1=Portuguese, 2=German, 3=Spanish, 4=Italian, 5=Dutch, 6=English, 7=Lithuanian, 8=Angolan, 9=Cape Verdean, 10=Guinean, 11=Mozambican, 12=Santomean, 13=Turkish, 14=Brazilian, 15=Romanian, 16=Moldova, 17=Mexican, 18=Ukrainian, 19=Russian, 20=Cuban, 21=Colombian
+Displaced: 0=No, 1=Yes
+Gender: 0=Female, 1=Male
+Age at Enrollment: Age of the student at the time of Enorllment
+International: if the student is internation or from the same country - 0=No, 1=Yes
